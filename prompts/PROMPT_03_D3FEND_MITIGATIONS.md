@@ -88,7 +88,7 @@ STEP 3 — FOR EACH UNMITIGATED TTP
    - Which crown jewel assets are at risk
    - Which entity carries the highest exposure (FH / RMI / FPG / SPS)
 
-2. MAP TO D3FEND
+2. MAP TO D3FEND and NIST CSF
    Provide countermeasures across relevant tactical categories:
    - MODEL: What must we understand or inventory first?
    - HARDEN: How do we reduce attack surface?
@@ -139,7 +139,7 @@ Close with two outputs:
    Top 10 immediate actions ranked by:
    - Joshua TTP alignment
    - Crown jewel exposure
-   - Compliance or insurance impact
+   - Compliance or insurance impact Including (NIST CSF)
    - Implementation effort
 
 2. PROGRAM HEALTH HEAT MAP
