@@ -59,9 +59,9 @@ WOPR/
 
 ## The WOPR Setup
 
-**WOPR** is built as a **Claude Project** — a persistent AI workspace loaded with organizational context files that allow the AI to produce threat-informed outputs calibrated to a specific client environment.
+**WOPR** is built as an **AI Project**: a persistent AI workspace loaded with organizational context files that allow the AI to produce threat-informed outputs calibrated to a specific client environment.
 
-### How to Build Your Own WOPR
+### How to Build Your Own WOPR in Claude (should work similarly in CoPilot and other AI tools)
 
 **Step 1 — Create a Claude Project**
 - Go to claude.ai
