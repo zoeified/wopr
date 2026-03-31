@@ -218,8 +218,6 @@ All threat intelligence must be dated. Flag anything older than
 Always distinguish between CONFIRMED and INFERRED TTPs in every
 output. The difference matters to both technical and executive
 audiences and should never be obscured.
-```
----
 
 ALWAYS REVIEW YOUR WORK
 
@@ -229,3 +227,4 @@ Weaknesses include contradictions, weak explanations, missing info,
 and gaps in logic, context, explanation, or answers. Make
 corrections and then start another review until no more reviews are
 necessary.
+```
