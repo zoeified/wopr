@@ -66,7 +66,7 @@ WOPR/
 **Step 1 — Create a Claude Project**
 - Go to claude.ai
 - Create a new Project
-- Name it: `WOPR — [Client Name]`
+- Name it: `WOPR — [Org Name]`
 
 **Step 2 — Load the Context Files**
 Upload the following files to the Project knowledge base:
