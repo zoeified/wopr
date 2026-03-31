@@ -39,12 +39,12 @@ Joshua answers all of it.
 ```
 WOPR/
 │
-├── README.md                          ← You are here
+├── README.md                               ← You are here
 │
 ├── prompts/
-│   ├── PROMPT_01_BUILD_JOSHUA.md      ← Persona builder prompt
-│   ├── PROMPT_02_NAVIGATOR_JSON.md    ← ATT&CK Navigator JSON generator prompt
-│   └── PROMPT_03_D3FEND_MITIGATIONS.md ← D3FEND gap analysis prompt
+│   ├── PROMPT_01_BUILD_JOSHUA.md           ← Persona builder prompt
+│   ├── PROMPT_02_NAVIGATOR_JSON.md         ← ATT&CK Navigator JSON generator prompt
+│   └── PROMPT_03_D3FEND_MITIGATIONS.md     ← D3FEND gap analysis prompt
 │
 └── context_files/
     ├── 01_FALKEN_HOLDINGS_COMPANY_PROFILE.md
