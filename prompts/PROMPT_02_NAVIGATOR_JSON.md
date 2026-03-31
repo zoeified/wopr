@@ -35,7 +35,7 @@ JSON Specification in your context files, generate a complete Navigator
 layer JSON file for Falken Holdings.
 
 Requirements:
-- Use ATT&CK version 16 and layer format 4.5
+- Use ATT&CK version 18.1 and layer format 4.5
 - Domain: enterprise-attack
 - Include all TTPs identified in the Joshua persona
 - Include both parent techniques and relevant subtechniques
